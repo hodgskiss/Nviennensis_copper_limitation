@@ -3,15 +3,10 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
 
 
 1.  Transcript Processing
-
 	Script_Information_for_Processing_Reads.sh
-	
 	cu_counts.txt
-	
 	DESeq2_Commands.R
-	
 	rlog_mat.txt
-	
 	PCA_Plot_Script.R
 
 2.  arGOC Analysis
