@@ -10,13 +10,9 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
 	PCA_Plot_Script.R
 
 2.  arGOC Analysis
-
 	Nvie_arCOGs.csv
-	
 	Up_Genes_NVIE.csv
-	
 	Down_Genes_NVIE.csv
-	
 	Inputs_for_Hypergeometric_Text.R
 	
 
