@@ -14,6 +14,10 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
        *  Text file containig the rlog normalized reads of genes used to create the PCA plot of samples.
     *  PCA_Plot_Script.R
        *  R script used to create PCA plot of samples.
+    *  GCA_000698785.1_ASM69878v1_genomic.fna
+       *  *N. viennensis* genome used for Bowtie2.
+    *  GCA_000698785.1_ASM69878v1_genomic.gff
+       *  *N. viennensis* annotation file used for featurecounts.
     
 2.  arGOC Analysis
     *  Nvie_arCOGs.csv
@@ -44,4 +48,6 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
        *  Information for accessing proteomic data.
     *  copper_mqpar.xml
        *  Parameter file for analyzing proteomic data using MaxQuant version 1.6.3.3.
+    *  uniprot-proteome%3AUP000027093+AND+%28proteomecomponent%3AChromosome%29.fasta
+       *  Proteome for *N. viennensis* used for MaxQuant analysis.
     
