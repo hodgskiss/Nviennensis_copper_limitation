@@ -1,0 +1,103 @@
+>NVIE_019250 - 100 bases upstream
+
+cgcatttgtccagcctgatatcagatgaaatcagtgcatcggttctacttgcagagtaaa
+cgtcctcgctaaatggcaatggccggcactttccttcttg
+
+>NVIE_001850 - 100 bases upstream
+
+gtgctacctgcagcatatactatatgatgcatctaatcgcttagacggttcgtcacgtgt
+actacaacgctttaatccgatcaagcagaaaatttgtctg
+
+>NVIE_014210 (NVIE_014220) - 100 bases upstream
+
+ttcagcagatttgttaaaagttaagcaggccatgcaagggttgcaatcccttgttgaaga
+gggaatatcatcgtactattgccatattacgggtacatat
+
+>NVIE_018920 - 100 bases upstream
+
+taagcagtagacctgtgtgaccctgtcccgacttcatacgtgctagcagatatgcccaaa
+atatcacagaagaggccggacttgtgtgttcggcgtttca
+
+>aniA - 100 bases upstream
+
+gcctgcggccggctgcaaaaggttgcaggcgattatagtacggaggcgggcttgctgtgt
+atacggcctgcctatatgcaaaaccagagaaatttttcct
+
+>NVIE_1990 - 100 bases upstream
+
+actttaaccgcgttttgaatggtaataaccgggagctaggatccttaatcactgatccct
+acatattttagtctgcaatgaacctgtttgaatctatttc
+
+>NVIE_1444 (NVIE_014170)- 100 bases upstream
+
+ttttacgcgcggttgatcgattgaatgcagactggttcattcgtagaataaaccacaacg
+ccctattattcaaaggctgaatttatgccggttaaataaa
+
+>NVIE_012190 - 100 bases upstream
+
+tgtacaattattatacaaaaatgttagcgaagcttattagttcatatctatggcatgtcg
+taccatggcaaatcgtgtaccgaatgccataaacggggta
+
+>NVIE_024190 - 100 bases upstream
+
+tgttgtaatattctactgctgttgctgttgcgctcatgcaaggttgtgcgcatggacggt
+attaaaacccattttcgggacttgtaccgcatgacatata
+
+>NVIE_016460 - 100 bases upstream
+
+gcgctattaaacccatctataatccgtactttactctgcgctttcccttttgacctagtc
+ttatcacaagaatcagcgtaataatcttggtgacgatcgc
+
+>NVIE_026600 (NVIE_026610)- 100 bases upstream
+
+tagtagatgtagtctctagtaaatagtatcttgctatgcaagtacccgagataagacaat
+catgaccatagatcacttttaagttctgtagaatccttgg
+
+>NVIE_018440 (NVIE_018430)- 100 bases upstream
+
+taactactactcaaaagcgccgctgatacgatttgtgcaagctgattattcaacgcgctt
+ttgattcttacaaagccccgctaaaccgtatgcccgcact
+
+>NVIE_023360 - 100 bases upstream
+
+tatctctaatcagcgggaatctttattttatatccaaatatagaaactacgttaacaaag
+atccagaaaaggtatatagaagaaaattagctaaagtccg
+
+
+>NVIE_019240 - 100 bases upstream
+acagaaaaccttgtcgtgcctttgcatggtgcagttcaattgcgcacgcttgctctgtac
+tcacaagcgttatcacaccgcataaagccctccaagagtt
+
+>NVIE_012980 (NVIE_012970)- 100 bases upstream
+ctcgctttgcactcagacgcagactagtggcagcggcagcaacgtttgattctgaaaagc
+tggattcggtgacgacgttttcggaggcatagaaaacaaa
+
+>NVIE_000930 - 100 bases upstream
+
+aactgaacatactagacaatattagttgtttggcctttctggagatgtgttggctgtatc
+cagtgcatggctttttgtactgattgccccacttttggcc
+
+>NVIE_017760 - 100 bases upstream
+
+tattacagagtttttccgcgtttgaactataataacgatgctgaaacgcttgcaggcgct
+tgcaatgcgtacctgatgcataagtatcattctggcctag
+
+>NVIE_001840 - 100 bases upstream
+
+tgaaatgccaggattggcgcgggtttttgaacaaaatacccggcgctggcctaaccatag
+ttaaacaatgattttatcataggtttgcaacaatctctgt
+
+>NVIE_016680 - 100 bases upstream
+
+aatttgccgggagcgtctctgttatgctttgaaaaacagccaaagaatgatgcaaggatg
+ggctagctgcctatatgcaaaattattagaaaaatgttac
+
+>NVIE_013000 - 100 bases upstream
+
+ggttttctgtcaaattcaagtgatttaaggggataaatgccacattagatctaatttacg
+gaattcttaaataattcgacatcatacatcaagcatacat
+
+>NVIE_1975 - 100 bases upstream
+
+agatttctgcgcatgacagcaagcaagcgtgcaagacaatcatcagattgcgcttgcaat
+tttctgtacacgcgacacttaaagggttcaacaatgcaac
