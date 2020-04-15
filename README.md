@@ -39,7 +39,7 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
     *  Promoter_Regions_Downregulated_Putative_Homologs.txt
        *  Promoter regions of genes in closely related species that share high similarity and/or synteny with genes containing the downregulated motif in N. viennensis.  Used as input for MEME. 
     *  Motif_Upregulated_Genes.txt
-       *  Motif found in the promoter region of selected upregulated genes.  Motif is in the MEME format.
+       *  Motif found in the promoter region of selected upregulated genes.  Motif is in the MEME format.  Used as input for FEME.
     *  Motif_Downregulated_Genes.txt
        *  Motif found in the promoter region of the top 25 downregulated genes.	Motif is in the MEME format.
     
