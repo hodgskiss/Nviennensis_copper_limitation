@@ -37,9 +37,9 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
     *  Nvie_arCOGs.csv
        *  File containing the arCOG assignments of genes in *N. viennensis* (NVIE locus tags). 
     *  Up_Genes_NVIE.csv
-       *  List of upregulated genes under copper limitation (adjusted p-value &ge; 0.01). 
+       *  List of upregulated genes under copper limitation (adjusted p-value &lt; 0.01). 
     *  Down_Genes_NVIE.csv
-       *  List of downregulated genes under copper limitation (adjusted p-value &ge; 0.01).
+       *  List of downregulated genes under copper limitation (adjusted p-value &lt; 0.01).
     *  Inputs_for_Hypergeometric_Text.R
        *  Script and information for creating the necessary inputs for the arCOG hypergeometric test analysis. 
     
