@@ -12,10 +12,16 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
        *  Script for filtering reads based on quality using PrinSeq-Lite.
     *  cu_sortmerna.sh
        *  Script for separating mRNA reads using SortMeRNA.
+    *  Nviennensis_rRNAs.fasta
+       *  Reference file for rRNA genes found in *N. viennensis*.  Used with SortMeRNA.
     *  cu_bowtie2.sh
        *  Script for aligning reads to a genome using Bowtie2.
+    *  GCA_000698785.1_ASM69878v1_genomic.fna
+       *  *N. viennensis* genome used for Bowtie2.
     *  cu_counts.sh
        *  Script for counting reads matched genes using featurecounts.
+     * GCA_000698785.1_ASM69878v1_genomic.gff
+       *  *N. viennensis* annotation file used for featurecounts.
     *  cu_counts.txt
        *  Text file used for input in DESeq2 after processing reads.
     *  DESeq2_Commands.R
@@ -24,10 +30,8 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
        *  Text file containig the rlog normalized reads of genes used to create the PCA plot of samples.
     *  PCA_Plot_Script.R
        *  R script used to create PCA plot of samples.
-    *  GCA_000698785.1_ASM69878v1_genomic.fna
-       *  *N. viennensis* genome used for Bowtie2.
-    *  GCA_000698785.1_ASM69878v1_genomic.gff
-       *  *N. viennensis* annotation file used for featurecounts.
+    
+   
     
 2.  arGOC Analysis
     *  Nvie_arCOGs.csv
