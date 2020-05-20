@@ -4,8 +4,18 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
 ##  Table of Contents  
 
 1.  Transcriptomic Processing
-    *  Script_Information_for_Processing_Reads
+    *  Workflow_Information_for_Processing_Reads
        *  Contains information on how to access transcriptomic data as well as programs and commands used to prepare data for DESeq2 (i.e. create the file cu_counts.txt).
+    *  cu_trim.sh
+       *  Script for trimming adapter sequences from raw reads using Trimmomatic.
+    *  cu_prinseq.sh
+       *  Script for filtering reads based on quality using PrinSeq-Lite.
+    *  cu_sortmerna.sh
+       *  Script for separating mRNA reads using SortMeRNA.
+    *  cu_bowtie2.sh
+       *  Script for aligning reads to a genome using Bowtie2.
+    *  cu_counts.sh
+       *  Script for counting reads matched genes using featurecounts.
     *  cu_counts.txt
        *  Text file used for input in DESeq2 after processing reads.
     *  DESeq2_Commands.R
@@ -44,7 +54,7 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
        *  Motif found in the promoter region of the top 25 downregulated genes.	Motif is in the MEME format.
     
 4.  Proteomic Precessing
-    *  Proteomic_Data.txt
+    *  Proteomic_Data_Information.txt
        *  Information for accessing proteomic data.
     *  copper_mqpar.xml
        *  Parameter file for analyzing proteomic data using MaxQuant version 1.6.3.3.
