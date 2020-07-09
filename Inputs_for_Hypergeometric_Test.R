@@ -16,6 +16,9 @@ down_name_vec = as.character(down_names[,1])
 
 #These inputs are used for the script to perform the hypergeometric test. 
 #Original script can be found at https://github.com/amyschmid/histone_arCOG.
+#From the paper:
+#Dulmage, Keely A et al. “Growth-Phase-Specific Modulation of Cell Morphology and Gene Expression by an Archaeal Histone Protein.” 
+#         mBio vol. 6,5 e00649-15. 8 Sep. 2015, doi:10.1128/mBio.00649-15
 
 #Required edits for N. viennensis:
 #   In the original script, line 26 needs to read: resm <- matrix(0,22,3)
