@@ -33,7 +33,7 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
     
    
     
-2.  arGOC Analysis
+2.  arCOG Analysis
     *  Nvie_arCOGs.csv
        *  File containing the arCOG assignments of genes in *N. viennensis* (NVIE locus tags). 
     *  Up_Genes_NVIE.csv
