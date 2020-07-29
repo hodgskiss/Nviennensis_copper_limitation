@@ -1,5 +1,5 @@
 # Nviennensis_copper_limitation
-Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis under copper limitation. Information found here is associated with the paper "Genome wide transcriptomic analysis of the soil ammonia oxidizing archaeon *Nitrososphaera viennensis* upon exposure to copper limitation." (Reyes et al. 2020).
+Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis under copper limitation. Information found here is associated with the paper "Genome wide transcriptomic analysis of the soil ammonia oxidizing archaeon *Nitrososphaera viennensis* upon exposure to copper limitation." (Reyes et al. 2020) https://doi.org/10.1038/s41396-020-0715-2.
 
 ##  Table of Contents  
 
