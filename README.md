@@ -57,7 +57,7 @@ Scripts for the analysis of transcriptomic data from Nitrososphaera viennensis u
     *  Motif_Downregulated_Genes.txt
        *  Motif found in the promoter region of the top 25 downregulated genes.	Motif is in the MEME format.
     
-4.  Proteomic Precessing
+4.  Proteomic Processing
     *  Proteomic_Data_Information.txt
        *  Information for accessing proteomic data.
     *  copper_mqpar.xml
